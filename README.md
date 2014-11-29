@@ -3,7 +3,7 @@ NDN-4-VMM
 
 simulation codes for paper "Supporting Seamless Virtual Machine Migration via Named Data Networking in Cloud Data Center"
 
-1. install and configure ndnsim;
+1. install and configure ndnsim; ensure run a command "./waf configure --enable-examples", so that files under examples are built;
 
 2. download simulation codes and configure a simulation testbed;
 
