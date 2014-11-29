@@ -6,6 +6,7 @@ simulation codes for paper "Supporting Seamless Virtual Machine Migration via Na
 1. install and configure ndnsim;
 
 2. download simulation codes and configure a simulation testbed;
+
 2.1 put following custom strategy files in folder "ndnsim/ns-3/src/ndnSIM/examples/custom-strategies/":
     "mycustom-strategy.h"
     "mycustom-strategy.cc"
